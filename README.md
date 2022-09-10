@@ -308,5 +308,3 @@ then run
 # Disclaimers
 
 **PIE** is not yet in its complete form. It is under development and updates will be released frequently. New libraries and demos will be soon released. The current libraries and demos will be updated. 
-
-For questions, comments, and any other feedback, feel free to write to David Silva, dsilva@algemetric.com
